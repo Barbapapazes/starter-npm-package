@@ -2,7 +2,7 @@
   "name": "starter-npm-package",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.7.1",
+  "packageManager": "pnpm@8.10.2",
   "description": "Opinionated NPM package starter",
   "author": "Estéban Soubiran <e.soubiran25@gmail.com> (https://github.com/barbapapazes/)",
   "license": "MIT",
@@ -38,11 +38,11 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@antfu/eslint-config": "1.0.0-beta.22",
-    "@types/node": "^20.8.3",
+    "@antfu/eslint-config": "1.1.1",
+    "@types/node": "^20.9.0",
     "bumpp": "^9.2.0",
-    "eslint": "^8.51.0",
-    "jiti": "^1.20.0",
+    "eslint": "^8.53.0",
+    "jiti": "^1.21.0",
     "unbuild": "^2.0.0"
   }
 }
